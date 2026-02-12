@@ -2575,7 +2575,7 @@ dependencies = [
  "serde_json",
  "sqlx",
  "teloxide-core",
- "teloxide-macros",
+ "teloxide-macros 0.10.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "thiserror",
  "tokio",
  "tokio-stream",
